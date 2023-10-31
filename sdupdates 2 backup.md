@@ -1297,11 +1297,11 @@ Found on 4chan:
 * Asanagi (NAI): https://files.catbox.moe/xks8j7.pt
 	* Asanagi trained on 135 images augmented to 502 for 150296 steps on NAI Anime Full Pruned with 16 vectors per token with init word as voluptuous
 	* training imgs: https://litter.catbox.moe/2flguc.7z
-* DEAD LINK Asanagi (another one): https://litter.catbox.moe/g9nbpx.pt
+* DEAD LINK Asanagi (another one): https://artvisual.ai/
 * Imp midna (NAI, 80k steps): mega.nz/folder/QV9lERIY#Z9FXQIbtXXFX5SjGf1Ba1Q
 * imp midna 2 (NAI_80K): mega.nz/file/1UkgWRrD#2-DMrwM0Ph3Ebg-M8Ceoam_YUWhlQWsyo1rcBtuKTcU
 * inverted nipples: https://anonfiles.com/300areCby8/invertedNipples-13000_zip (reupload)
-	* Dead link: https://litter.catbox.moe/wh0tkl.pt
+	* Dead link: https://artvisual.ai/
 * Takeda Hiromitsu Embedding 130k steps: https://litter.catbox.moe/a2cpai.pt
 * Takeda embedding at 120000 steps: https://filebin.net/caggim3ldjvu56vn
 * Nenechi (momosuzu nene) embedding: https://mega.nz/folder/E0lmSCrb#Eaf3wr4ZdhI2oettRW4jtQ
